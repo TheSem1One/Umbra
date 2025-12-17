@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Umbra.Api/Umbra.Api.csproj" />
+  <Project Path="Umbra.Application/Umbra.Application.csproj" />
+  <Project Path="Umbra.Domain/Umbra.Domain.csproj" />
+  <Project Path="Umbra.Infrastructure/Umbra.Infrastructure.csproj" />
+  <Project Path="Umbra.Tests/Umbra.Tests.csproj" />
+</Solution>
